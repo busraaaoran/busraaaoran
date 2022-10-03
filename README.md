@@ -8,7 +8,7 @@
 # Languages and Tools
 <p float="left">
 <img src=https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-1996-768x483.png width=100 >
-<img src=https://ih1.redbubble.net/image.395411727.8962/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg width=100>
+<img src=https://cdn.cdnlogo.com/logos/c/27/c.svg width=100>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3HoIzed04XoJIRjgbP_krDSlq-Ph3bfFTA&usqp=CAU width=100>
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WYHLYIVN011VGVl1pkwPRrAGWPBbG25YrQ&usqp=CAU width=100>
 <img src=https://www.svgrepo.com/show/303232/mongodb-logo.svg width=100>
