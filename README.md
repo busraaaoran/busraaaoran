@@ -14,6 +14,7 @@
 <img src=https://www.svgrepo.com/show/303232/mongodb-logo.svg width=100>
 <img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png width=100>
 <img src=https://d1wrxu8gicsgam.cloudfront.net/wp-content/files/django-logo-big.jpg width=100>
+<img src=https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg width=100>
 </p>
 <!--
 **busraaaoran/busraaaoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
