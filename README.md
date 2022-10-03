@@ -1,6 +1,6 @@
 # Büşra Oran | Software Developer
 
-:crystal_ball: ## Graduated from Çukurova University Computer Engineering department
+### :crystal_ball: Graduated from Çukurova University Computer Engineering department
 <!--
 **busraaaoran/busraaaoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
