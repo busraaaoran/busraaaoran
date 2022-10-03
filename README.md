@@ -13,7 +13,7 @@
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9WYHLYIVN011VGVl1pkwPRrAGWPBbG25YrQ&usqp=CAU width=100>
 <img src=https://www.svgrepo.com/show/303232/mongodb-logo.svg width=100>
 <img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png width=100>
-<img src=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png](https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle.png width=100>
+<img src=https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle.png width=100>
 </p>
 <!--
 **busraaaoran/busraaaoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
